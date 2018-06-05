@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\277df86d586030d8b9e5e53c45c8f3f5ab0627a2\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\timepicker_anim_enter_bottom.xml",
+        "source": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\libs\\build\\intermediates\\bundles\\default\\res\\anim\\timepicker_anim_enter_bottom.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\277df86d586030d8b9e5e53c45c8f3f5ab0627a2\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\timepicker_anim_exit_bottom.xml",
+        "source": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\libs\\build\\intermediates\\bundles\\default\\res\\anim\\timepicker_anim_exit_bottom.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\277df86d586030d8b9e5e53c45c8f3f5ab0627a2\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\277df86d586030d8b9e5e53c45c8f3f5ab0627a2\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\sony\\CameraRemoteSampleApp\\Android\\CameraRemoteSampleApp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Donlann\\.android\\build-cache\\1258907190eaeecda48f41e636b7ed503c760f58\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

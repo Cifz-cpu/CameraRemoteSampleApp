@@ -1,0 +1,2083 @@
+{
+    "count": 3,
+    "results": [
+        {
+            "id": 23,
+            "name": "测试套系",
+            "picture": "http://scene.donlann.com/uploads/album/d6db9337083c678c49223ac5dfdaf0907f3bd7c2.jpg",
+            "scenes": [
+                {
+                    "aperture": "1.8",
+                    "color_temperature": "5260",
+                    "focal_length": "100",
+                    "id": 33,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "time": 5000,
+                            "type": "enter",
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "time": 2000,
+                            "type": "exit",
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "time": 10000,
+                            "type": "enter",
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "time": 2000,
+                            "type": "exit",
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "测试场景",
+                    "picture": "http://scene.donlann.com/uploads/scene/d6db9337083c678c49223ac5dfdaf0907f3bd7c2.jpg",
+                    "shutter_speed": "1/100",
+                    "white_balance": "Color Temperature"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "灯位测试",
+            "picture": "http://scene.donlann.com/uploads/album/87d6752876b391be1e1adbfb6e4a154e12818867.jpg",
+            "scenes": [
+                {
+                    "aperture": "2.0",
+                    "audio_file": "http://scene.donlann.com/uploads/audio/1.mp3",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 170,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 1
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 1
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试01",
+                    "picture": "http://scene.donlann.com/uploads/scene/0085f5b6af66926dc9ecd1b5f2dd5edcdb6ba401.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 171,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 100
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 1
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 1
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试04",
+                    "picture": "http://scene.donlann.com/uploads/scene/20f6fadb1fcaf9608d61199d328b9a5993266084.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "66",
+                    "focal_length": "50",
+                    "id": 172,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 100
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试02",
+                    "picture": "http://scene.donlann.com/uploads/scene/3ec5a88df4425171f670d16512e6757c5817fae9.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "55",
+                    "focal_length": "50",
+                    "id": 173,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 100
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 1
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 1
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 1
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试03",
+                    "picture": "http://scene.donlann.com/uploads/scene/03bb366e00d7c62362fd16e18a94c4b1357b0f21.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "13",
+                    "focal_length": "50",
+                    "id": 174,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 100
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试05",
+                    "picture": "http://scene.donlann.com/uploads/scene/a3fac269ad876bc15b8dd872369d87f6a7934108.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "22",
+                    "focal_length": "50",
+                    "id": 175,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 100
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试06",
+                    "picture": "http://scene.donlann.com/uploads/scene/4602b47a0d4f30479817d7b0e69f2d13214429c3.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "513",
+                    "focal_length": "50",
+                    "id": 176,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 100
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试07",
+                    "picture": "http://scene.donlann.com/uploads/scene/3105571dae495bc791becbbf73c1ed6a4a6f68f2.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "10",
+                    "focal_length": "50",
+                    "id": 177,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 100
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试08",
+                    "picture": "http://scene.donlann.com/uploads/scene/b6e8d124f86427beb3c1aab8b30b843fdf1bd536.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "30",
+                    "focal_length": "50",
+                    "id": 178,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 100
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试09",
+                    "picture": "http://scene.donlann.com/uploads/scene/f8d388f9480be6d1ed856e46090be6cba711fe90.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "321",
+                    "focal_length": "50",
+                    "id": 179,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 100
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试10",
+                    "picture": "http://scene.donlann.com/uploads/scene/92be1d739a3d089ea9f4e529142a2103ba988301.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "215",
+                    "focal_length": "50",
+                    "id": 180,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 100
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试11",
+                    "picture": "http://scene.donlann.com/uploads/scene/28beb5384e693dd304f82f89f386249f77a0a722.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "252",
+                    "focal_length": "50",
+                    "id": 181,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 100
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试12",
+                    "picture": "http://scene.donlann.com/uploads/scene/40ea85f4b0c53af649bec54aee3f59d5103eca7f.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "221",
+                    "focal_length": "50",
+                    "id": 182,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 100
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试13",
+                    "picture": "http://scene.donlann.com/uploads/scene/4b585dd1fe1f29dcba36359ffdb81b9452a3fad5.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "11",
+                    "focal_length": "50",
+                    "id": 183,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 100
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试14",
+                    "picture": "http://scene.donlann.com/uploads/scene/ff1c16cf9accd7e0c71e29ec5c25f8316e7ff57c.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "11",
+                    "focal_length": "50",
+                    "id": 184,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 100
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试15",
+                    "picture": "http://scene.donlann.com/uploads/scene/a04ee8facaa1c3be6605d34cb7b6d18261d0ead4.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Auto"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "11000",
+                    "focal_length": "50",
+                    "id": 185,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 100
+                        }
+                    ],
+                    "name": "灯位测试16",
+                    "picture": "http://scene.donlann.com/uploads/scene/f36ab06e2f710da8b9a2f8867bedad58220a5322.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "11000",
+                    "focal_length": "50",
+                    "id": 186,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 100
+                        },
+                        {
+                            "id": 2,
+                            "value": 100
+                        },
+                        {
+                            "id": 3,
+                            "value": 100
+                        },
+                        {
+                            "id": 4,
+                            "value": 100
+                        },
+                        {
+                            "id": 5,
+                            "value": 100
+                        },
+                        {
+                            "id": 6,
+                            "value": 100
+                        },
+                        {
+                            "id": 7,
+                            "value": 100
+                        },
+                        {
+                            "id": 8,
+                            "value": 100
+                        },
+                        {
+                            "id": 9,
+                            "value": 100
+                        },
+                        {
+                            "id": 10,
+                            "value": 100
+                        },
+                        {
+                            "id": 11,
+                            "value": 100
+                        },
+                        {
+                            "id": 12,
+                            "value": 100
+                        },
+                        {
+                            "id": 13,
+                            "value": 100
+                        },
+                        {
+                            "id": 14,
+                            "value": 100
+                        },
+                        {
+                            "id": 15,
+                            "value": 100
+                        },
+                        {
+                            "id": 16,
+                            "value": 100
+                        },
+                        {
+                            "id": 17,
+                            "value": 100
+                        },
+                        {
+                            "id": 18,
+                            "value": 100
+                        },
+                        {
+                            "id": 19,
+                            "value": 100
+                        },
+                        {
+                            "id": 20,
+                            "value": 100
+                        },
+                        {
+                            "id": 21,
+                            "value": 100
+                        },
+                        {
+                            "id": 22,
+                            "value": 100
+                        },
+                        {
+                            "id": 23,
+                            "value": 100
+                        },
+                        {
+                            "id": 24,
+                            "value": 100
+                        },
+                        {
+                            "id": 26,
+                            "value": 100
+                        },
+                        {
+                            "id": 27,
+                            "value": 100
+                        },
+                        {
+                            "id": 28,
+                            "value": 100
+                        },
+                        {
+                            "id": 29,
+                            "value": 100
+                        },
+                        {
+                            "id": 30,
+                            "value": 100
+                        },
+                        {
+                            "id": 31,
+                            "value": 0
+                        },
+                        {
+                            "id": 32,
+                            "value": 100
+                        }
+                    ],
+                    "name": "灯位测试17全",
+                    "picture": "http://scene.donlann.com/uploads/scene/2d01580e4039ce4a43357db8bb58bae395d7a7ce.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 648,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 100
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 100
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 100
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 100
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 100
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试闪灯",
+                    "picture": "http://scene.donlann.com/uploads/scene/1a34dc03ea0340cf09e4ec65a9a5b3e7a659bebb.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 649,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 100
+                        },
+                        {
+                            "id": 11,
+                            "value": 100
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试LED黄光",
+                    "picture": "http://scene.donlann.com/uploads/scene/ec2326156c174b2ab0c8c4c905985628affa1d98.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 650,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 100
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 100
+                        },
+                        {
+                            "id": 5,
+                            "value": 100
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试LED白光",
+                    "picture": "http://scene.donlann.com/uploads/scene/d830c20870654c18260ebe0119526f6c8ade9de1.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 651,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 100
+                        },
+                        {
+                            "id": 8,
+                            "value": 100
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 100
+                        },
+                        {
+                            "id": 14,
+                            "value": 100
+                        },
+                        {
+                            "id": 15,
+                            "value": 100
+                        },
+                        {
+                            "id": 16,
+                            "value": 100
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "灯位测试三基色",
+                    "picture": "http://scene.donlann.com/uploads/scene/f4ee7420f1c9707d568740ad3d70a7f7c854df80.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                }
+            ]
+        },
+        {
+            "id": 173,
+            "name": "机器人测试",
+            "picture": "http://scene.donlann.com/uploads/album/c017555d98c7f8e39c7aeae43978f94983a4cc24.jpg",
+            "scenes": [
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 1539,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "测试机器人_场景01",
+                    "picture": "http://scene.donlann.com/uploads/scene/cb24f4c265a2ed84e7fbb9da004440f69dd71f11.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                },
+                {
+                    "aperture": "5.6",
+                    "color_temperature": "5000",
+                    "focal_length": "50",
+                    "id": 1540,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        },
+                        {
+                            "id": 17,
+                            "value": 0
+                        },
+                        {
+                            "id": 18,
+                            "value": 0
+                        }
+                    ],
+                    "name": "测试机器人_场景02",
+                    "picture": "http://scene.donlann.com/uploads/scene/b63f5b7b46e53b4079c70859fbc2c4a98048685a.jpg",
+                    "shutter_speed": "1/125",
+                    "white_balance": "Color Temperature"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "测试套系",
+            "picture": "http://scene.donlann.com/uploads/album/d6db9337083c678c49223ac5dfdaf0907f3bd7c2.jpg",
+            "scenes": [
+                {
+                    "aperture": "1.8",
+                    "color_temperature": "5260",
+                    "focal_length": "100",
+                    "id": 33,
+                    "iso_sensitivity": "100",
+                    "light_param": [
+                        {
+                            "id": 1,
+                            "time": 5000,
+                            "type": "enter",
+                            "value": 0
+                        },
+                        {
+                            "id": 2,
+                            "time": 2000,
+                            "type": "exit",
+                            "value": 0
+                        },
+                        {
+                            "id": 3,
+                            "time": 10000,
+                            "type": "enter",
+                            "value": 0
+                        },
+                        {
+                            "id": 4,
+                            "time": 2000,
+                            "type": "exit",
+                            "value": 0
+                        },
+                        {
+                            "id": 5,
+                            "value": 0
+                        },
+                        {
+                            "id": 6,
+                            "value": 0
+                        },
+                        {
+                            "id": 7,
+                            "value": 0
+                        },
+                        {
+                            "id": 8,
+                            "value": 0
+                        },
+                        {
+                            "id": 9,
+                            "value": 0
+                        },
+                        {
+                            "id": 10,
+                            "value": 0
+                        },
+                        {
+                            "id": 11,
+                            "value": 0
+                        },
+                        {
+                            "id": 12,
+                            "value": 0
+                        },
+                        {
+                            "id": 13,
+                            "value": 0
+                        },
+                        {
+                            "id": 14,
+                            "value": 0
+                        },
+                        {
+                            "id": 15,
+                            "value": 0
+                        },
+                        {
+                            "id": 16,
+                            "value": 0
+                        }
+                    ],
+                    "name": "测试场景",
+                    "picture": "http://scene.donlann.com/uploads/scene/d6db9337083c678c49223ac5dfdaf0907f3bd7c2.jpg",
+                    "shutter_speed": "1/100",
+                    "white_balance": "Color Temperature"
+                }
+            ]
+        }
+    ]
+}
